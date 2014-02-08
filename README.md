@@ -1,5 +1,3 @@
-http://ios7colors.com/
-
 # UIColor+iOS7Colors
 
 UIColor+iOS7Colors adds convenience accessors for some nice looking colors for iOS 7 I found
