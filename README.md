@@ -14,7 +14,7 @@ helper syntax.
 
 ## Kudos
 
-* I'm using colors listed on ios7colors.com
+* I'm using colors listed on [ios7colors.com](http://ios7colors.com)
 * I got the idea to make an extension from Class Lange's [iOS7Colors](https://github.com/claaslange/iOS7Colors)
 * I got the idea to add gradients from Jason Grandelli's [KXKiOS7ColorsAndGradients](https://github.com/jgrandelli/KXKiOS7ColorsAndGradients)
 
