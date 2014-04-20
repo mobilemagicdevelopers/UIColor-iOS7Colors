@@ -14,9 +14,10 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/mobilemagicdevelopers/UIColor-iOS7Colors"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
-  s.author             = { "Patrick Caldwell" => "patrick@mobilemagicdevelopers.com" }
+  s.author             = { "D. Patrick Caldwell" => "patrick@mobilemagicdevelopers.com" }
   s.social_media_url = "http://twitter.com/tncbbthositg"
   s.source       = { :git => "https://github.com/mobilemagicdevelopers/UIColor-iOS7Colors.git", :tag => "v#{s.version}" }
   s.source_files  = 'lib/UIColor+iOS7Colors.{h,m}'
   s.requires_arc = true
+  s.platform     = :ios
 end
